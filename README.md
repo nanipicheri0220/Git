@@ -1,1 +1,1 @@
-singlePageApp
+
